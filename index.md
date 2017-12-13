@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+#  [ 재미그래밍 3기 스터디원 모집!! ]
 
-You can use the [editor on GitHub](https://github.com/Fungramming/class-3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 주제 : 인공지능 / 딥러닝 ( 파이썬 )
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 일정 : 
+          x월 중순 ~ x월 중순 x달 진행 예정, 주 x회 x시간( 수정 예정 )
 
-### Markdown
+#### 신청기간 : 
+            2017.xx.xx ~ 2017.xx.xx(xx일간)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 설명 : 
+         재미그래밍 2기의 뜨거운 성원에 힘입어 재미그래밍 3기 인공지능 / 딥러닝 스터디를 진행하려 합니다 !! 
 
-```markdown
-Syntax highlighted code block
+이제 전 세계적으로 거스를 수 없는 대세가 된 인공지능 / 딥러닝 분야는 아직은 태동기이지만 기업들이 본격적인 제품 상용화에 나설 경우 더욱 더 폭발적인 성장을 할 것으로 기대를 모으고 있습니다. ( 실제로 얼마전 출시된 ai 기반 스피커 카카오 미니의 경우 - 9분만에 전량 완판 되었죠 ) 허나 아직 기술적 기대감만 높을 뿐, 기초 지식을 갖춘 인력이 턱없이 부족한 것이 현실입니다. 
 
-# Header 1
-## Header 2
-### Header 3
+즉, 인공지능에 대한 근본적인 이해가 부족하다는 문제점에 착안하여 기초 개념 공부와 ‘실제 활용에 집중한’ 스터디를 진행하고자 합니다.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+“ 꼭 필요한 부분만 **‘재미있게'** 진행하는 스터디 “ - 재미그래밍!!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 빅데이터 및 AI기반 스타트업 (주)블랙루비 스튜디오의 현업 개발자와 함께 스터디를 진행해 보실 수 있습니다.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+스터디 대상 : 	-    요즘 뜨고 있다는 인공지능 / 딥러닝!! 
+                 어디서부터 어떻게 시작해야 할 지 몰라서 막막하신분!
 
-### Jekyll Themes
+	-    관심은 있었지만 혼자서는 공부해 볼 엄두가 안나셨던 분!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fungramming/class-3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+	-    프로그래밍 경험이 있지만 인공지능 / 딥러닝 분야는 처음이신분!
 
-### Support or Contact
+진행 방식 :  	    입문서 2~3권과 파이썬 1권, 약간의 심화내용 인공지능 관련 도서 
+    1~2권 ( 수정 예정 ) - 스터디의 후반부에는 “코딩 게임"도 함께 
+    진행될 예정입니다!!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	스터디 세부일정 및 커리큘럼에 대해서는 차후 개별 공지 예정입니다.
+	
+신청인원이 많을 시 조기마감될 수도 있다는 점 양해 부탁드리겠습니다.
+
+
+신청링크 : … ( 추가 예정 )
