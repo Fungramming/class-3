@@ -29,3 +29,7 @@
     display: inline;
 }
 
+@media screen and (min-width: 64em)
+.btn {
+    padding: 0 30px;
+}
