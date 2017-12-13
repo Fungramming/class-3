@@ -80,7 +80,7 @@
 
 
 
-**[선정된 책 리스트](https://docs.google.com/spreadsheets/d/1HSbQggkdw2cTPT9xs4MVmX5nfMl4rL-3pNvhEgxeLtE/edit#gid=0)중에서 자신의 실력에 맞게 1권을 선택하실 수 있습니다.**
+**[선정된 도서 리스트](https://docs.google.com/spreadsheets/d/1HSbQggkdw2cTPT9xs4MVmX5nfMl4rL-3pNvhEgxeLtE/edit#gid=0)중에서 자신의 실력에 맞게 1권을 선택하실 수 있습니다.**
 <br>
 <br>
 <br>
