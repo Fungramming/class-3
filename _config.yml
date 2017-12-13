@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: [재미그래밍 3기 스터디원을 모집합니다!]
 description: [Blackruby-studio]
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
