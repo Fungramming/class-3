@@ -8,5 +8,5 @@
    color: $header-heading-color;
    text-align: center;
    background-color: $header-bg-color;
-   background-image: url("../assets/startup-593341.jpg");
+   background-image: url("{{ site.url }}/assets/startup-593341.jpg");
  }
