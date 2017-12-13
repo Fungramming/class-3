@@ -80,11 +80,11 @@
 
 
 
-**[선정된 도서 리스트](https://docs.google.com/spreadsheets/d/1HSbQggkdw2cTPT9xs4MVmX5nfMl4rL-3pNvhEgxeLtE/edit#gid=0)중에서 자신의 실력에 맞게 1권을 선택하실 수 있습니다.**
+**[선정된 책 리스트](https://docs.google.com/spreadsheets/d/1HSbQggkdw2cTPT9xs4MVmX5nfMl4rL-3pNvhEgxeLtE/edit#gid=0)중에서 자신의 실력에 맞게 1권을 선택하실 수 있습니다.**
 <br>
 <br>
 <br>
-	
+	 
 신청인원이 많을 시 **'조기마감'**될 수도 있다는 점 양해 부탁드리겠습니다.
 <br>
 <br>
