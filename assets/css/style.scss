@@ -29,8 +29,12 @@
     font-size: xx-large;
     display: inline;
     padding: 0 30px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
 }
 
+
 a.btn:hover {
-   color: white;
+    background-color: #4CAF50; /* Green */
+    color: white;
 }
