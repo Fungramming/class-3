@@ -89,6 +89,7 @@
 ### 빅데이터 및 AI기반 스타트업 (주)**블랙루비 스튜디오**의 현업 개발자와 **'함께'** 스터디를<br> 진행해 보실 수 있습니다!
 <br>
 <br>
+![ex_screenshot](assets/python_study.png)
 
 
 
