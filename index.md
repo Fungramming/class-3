@@ -83,6 +83,8 @@
 <br>
 <br>
 ![](https://fungramming.github.io/class-3/assets/Python_class.jpeg)
+<br>
+<br>
 
 *“ 꼭 필요한 부분만 **‘재미있게'** 진행하는 스터디 “ - 재미그래밍!!* 
 <br>
