@@ -82,12 +82,12 @@
 <br>
 <br>
 <br>
+![](https://fungramming.github.io/class-3/assets/Python_class.jpeg)
+
 *“ 꼭 필요한 부분만 **‘재미있게'** 진행하는 스터디 “ - 재미그래밍!!* 
 <br>
 <br>
 <br>
-![](https://fungramming.github.io/class-3/assets/Python_class.jpeg)
-
 ### 빅데이터 및 AI기반 스타트업 (주)**블랙루비 스튜디오**의 현업 개발자와 **'함께'** 스터디를<br> 진행해 보실 수 있습니다!
 <br>
 <br>
