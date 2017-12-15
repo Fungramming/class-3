@@ -97,7 +97,7 @@
 
 
 
-**재미그래밍 3기의 공식 커리큘럼으로 선정된 도서 중에서 자신의 실력에 맞게 1권을 선택하게 됩니다.**<br>[선정된 도서 리스트보러가기](https://docs.google.com/spreadsheets/d/1HSbQggkdw2cTPT9xs4MVmX5nfMl4rL-3pNvhEgxeLtE/edit#gid=0)
+**재미그래밍 3기의 공식 커리큘럼으로 선정된 도서 중에서 자신의 실력에 맞게 1권을 선택하게 됩니다.**<br>[선정된 도서 리스트보러가기](URL링크)
 <br>
 <br>
 <br>
