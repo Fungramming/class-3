@@ -1,6 +1,5 @@
 ---
-layout: default
-title: post
+layout: post
 ---
 
 # test
