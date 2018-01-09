@@ -79,9 +79,9 @@
 <br>
 <br>
 <br>
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBD6PZaQoIYpzQxCfu8uC-eM5fmVcairnylhctbyoevgHiBeva)
-![](http://www.descasio.com/wp-content/uploads/2017/09/icon-cloud-aws.png)
-![](https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBD6PZaQoIYpzQxCfu8uC-eM5fmVcairnylhctbyoevgHiBeva=100x20)
+![](http://www.descasio.com/wp-content/uploads/2017/09/icon-cloud-aws.png=100x20)
+![](https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo.png=100x20)
 <br>
 <br>
 <br>
