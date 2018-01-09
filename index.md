@@ -21,10 +21,8 @@
 <br>
 
 **[ 재미그래밍에서 8주 후의 나는?? ]** :
-<br>
 
 - 서버구축, 개발환경구축에 필요한 도구들의 사용법을 익힐 수 있습니다.
-<br>
 <br>
 - 현재 데이터베이스및 서버환경구축의 기술 흐름과 전반의 프로세스를 익힐 수 있습니다.
 <br>
@@ -77,11 +75,14 @@
 <br>
 <br>
 <br> 
+![](https://fungramming.github.io/class-3/assets/network-2402637_640.jpg)
+<br>
+<br>
+
 데이터베이스의 기초 개념 공부와 서버환경구축에 대해 **‘실제 활용에 집중한’** 스터디를 진행하고자 합니다.
 <br>
 <br>
 <br>
-![](https://fungramming.github.io/class-3/assets/network-2402637_640.jpg)
 <br>
 <br>
 <br>
