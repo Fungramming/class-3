@@ -53,9 +53,7 @@
 <br>
 <br>
 <br>
-![](https://fungramming.github.io/class-3/assets/database.png =250x)
-![](https://fungramming.github.io/class-3/assets/aws.png =250x)
-![](https://fungramming.github.io/class-3/assets/docker-logo.png = 250px)
+![](https://fungramming.github.io/class-3/assets/logo.jpg)
 <br>
 <br>
 <br>
