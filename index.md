@@ -22,16 +22,12 @@
 
 **[ 재미그래밍에서 8주 후의 나는?? ]** :
 <br>
-<br>
 
 - 서버구축, 개발환경구축에 필요한 도구들의 사용법을 익힐 수 있습니다.
 <br>
 <br>
-<br>
-
 
 - 현재 데이터베이스및 서버환경구축의 기술 흐름과 전반의 프로세스를 익힐 수 있습니다.
-<br>
 <br>
 <br>
 
@@ -45,8 +41,10 @@
 <br>
 
 **[ 진행 방식 ]** :   
+<br>
 
 - 재미그래밍3기의 주제 안에서 구성원이 각자 도서 선정 및 커리큘럼 작성해보기
+<br>
 <br>
 
 - 작성한 커리큘럼에 따라 본인이 공부한 내용 스터디 구성원과 토의 및 발표
@@ -81,7 +79,9 @@
 <br>
 <br>
 <br>
-<br>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBD6PZaQoIYpzQxCfu8uC-eM5fmVcairnylhctbyoevgHiBeva)
+![](http://www.descasio.com/wp-content/uploads/2017/09/icon-cloud-aws.png)
+![](https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo.png)
 <br>
 <br>
 <br>
