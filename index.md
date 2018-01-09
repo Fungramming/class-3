@@ -79,9 +79,9 @@
 <br>
 <br>
 <br>
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBD6PZaQoIYpzQxCfu8uC-eM5fmVcairnylhctbyoevgHiBeva =250x)
-![](http://www.descasio.com/wp-content/uploads/2017/09/icon-cloud-aws.png =250x)
-![](https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo.png =250x)
+![](https://fungramming.github.io/class-3/assets/database.png =250x)
+![](https://fungramming.github.io/class-3/assets/aws.png =250x)
+![](https://fungramming.github.io/class-3/assets/docker-logo.png = 250px)
 <br>
 <br>
 <br>
