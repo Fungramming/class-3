@@ -52,8 +52,9 @@
 <br>
 <br>
 <br>
-
-![](https://fungramming.github.io/class-3/assets/Python_class.jpeg)
+![](https://fungramming.github.io/class-3/assets/database.png =250x)
+![](https://fungramming.github.io/class-3/assets/aws.png =250x)
+![](https://fungramming.github.io/class-3/assets/docker-logo.png = 250px)
 <br>
 <br>
 <br>
@@ -78,9 +79,6 @@
 <br>
 <br>
 <br>
-![](https://fungramming.github.io/class-3/assets/database.png =250x)
-![](https://fungramming.github.io/class-3/assets/aws.png =250x)
-![](https://fungramming.github.io/class-3/assets/docker-logo.png = 250px)
 <br>
 <br>
 <br>
